@@ -22,4 +22,7 @@ Using idx method where it returns the index of the first occurance that happens,
 
 We then plotted all of the pricing an interactive plot using iplot as well as plotting the moving averages of all of the banks. The heat maps are then created for any type of correlation that happens. 
 
+![image](https://user-images.githubusercontent.com/98336842/154366744-96e658f0-27ed-43dd-96f2-6a6ced61423b.png)
+
+
 ![image](https://user-images.githubusercontent.com/98336842/154366663-bf712de5-2517-4a25-b9b1-be399bfa63a9.png)
